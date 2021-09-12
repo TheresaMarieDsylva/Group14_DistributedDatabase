@@ -1,0 +1,2 @@
+local | teacher |  $ teacherId $ teachers $ teacherId
+local | student |  $ teacherId $ teachers $ teacherId

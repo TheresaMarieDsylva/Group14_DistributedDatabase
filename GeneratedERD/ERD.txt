@@ -1,0 +1,1 @@
+student  (teacherId)--*----------REFERENCES------------1--> teachers  (teacherId)
